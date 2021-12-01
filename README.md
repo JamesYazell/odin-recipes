@@ -1,0 +1,1 @@
+This is a website for practicing my html skills with the Odin Project.
